@@ -1,3 +1,3 @@
-## Beat-detection
+# Beat-detection
 
-# Matlab program to detect beats
+## Matlab program to detect beats
